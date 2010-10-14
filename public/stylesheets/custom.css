@@ -8,6 +8,7 @@ body {
 
 header {
   padding-top: 20px;
+  position: relative;
 }
 
 header img {
@@ -42,9 +43,7 @@ a:visited {
   color: #069;
 }
 
-.
-.
-.
+
 /* Navigation */
 
 nav {
