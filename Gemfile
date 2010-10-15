@@ -9,6 +9,8 @@ group :development do
   gem 'rspec-rails', '2.0.0.beta.18'
   gem 'annotate-models', '1.0.4'
 	gem 'autotest'
+	gem 'autotest-growl'
+	gem 'autotest-fsevent'
 
 
 
