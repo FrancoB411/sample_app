@@ -8,6 +8,9 @@ gem 'gravatar_image_tag', '0.1.0'
 group :development do
   gem 'rspec-rails', '2.0.0.beta.18'
   gem 'annotate-models', '1.0.4'
+	gem 'autotest'
+	gem 'autotest-growl'
+	gem 'autotest-fsevent'
 
 
 end
@@ -16,7 +19,10 @@ group :test do
   gem 'rspec', '2.0.0.beta.18'
 	gem 'rspec-rails', '2.0.0.beta.18'
 	gem 'factory_girl_rails', '1.0'
-
+	gem 'autotest'
+	gem 'autotest-growl'
+	gem 'autotest-fsevent'
+	
 
 
 
